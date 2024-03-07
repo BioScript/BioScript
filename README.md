@@ -1,7 +1,7 @@
 # BioScript
 Open source toolkit for bioinformatics
 
-## IPD库
+## IPD
 ### Package Location 
 `bioscript/lib/ipd_imgt`
 ### Usage
@@ -28,9 +28,9 @@ print(df)
  - `get_alleles`
  - `get_single_allele`
 
- 用法可参考`./notebook/HLA_allele_to_pseudo_seq.ipynb`
+Refer to `./notebook/HLA_allele_to_pseudo_seq.ipynb` for detailed usage.
 
-## PseudoSequence转换库
+## PseudoSequence
 ### Location
 `bioscript/lib/pseudo_sequence`
 ### Usage
